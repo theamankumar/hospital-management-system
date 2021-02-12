@@ -12,3 +12,5 @@ completion of health care providers effectively. They manage the data related to
 8. Patient Records 
 9. Generate Bill 
 10. Appointment 
+
+NOTE : Username and Password for Login is '1'.

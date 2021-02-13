@@ -5718,7 +5718,7 @@ def login():
 
         framemenuroot=Frame(root,height="190",bg="lightgreen")
         framemenuroot.pack(side=TOP,fill=X)
-        framehospitalname=Label(framemenuroot,text="                                  CUH HOSPITAL",bg="lightgreen",fg="red",width="35",font=("calibri",27,"bold"))
+        framehospitalname=Label(framemenuroot,text="                                  FLOWER HOSPITAL",bg="lightgreen",fg="red",width="35",font=("calibri",27,"bold"))
         framehospitalname.pack(anchor="center")
 
 
